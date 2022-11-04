@@ -1,0 +1,526 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cc916adc-d054-469e-a1b5-8545b966b16d" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClassPatternConfiguration">
+    <testPatterns>
+      <classPattern testedClass="$CLASS$" testClass="test/$CLASS$Test" />
+    </testPatterns>
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/day06-day18：Eclipse/day06-day18：Eclipse/workspace0105/day12/bin/com/atguigu/exer/Kids.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="154">
+              <caret line="10" column="19" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/day06-day18：Eclipse/day06-day18：Eclipse/workspace0105/day10/bin/com/atguigu/exer1/TriAngleTest.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="22">
+              <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="JUnitClassTemplateConfiguration">
+    <option name="DONT_SHOW_TEMPLATE_DIALOG_IF_ONLY_ONE_TEMPLATE" value="false" />
+    <option name="DONT_SHOW_METHODS_DIALOG_IF_ONLY_ONE_METHOD" value="false" />
+    <option name="LAST_TEMPLATE_NAME" value="Default Test Class.java" />
+    <option name="TEST_TEMPLATES">
+      <value>
+        <list size="1">
+          <item index="0" class="java.lang.String" itemvalue="Default Test Class.java" />
+        </list>
+      </value>
+    </option>
+  </component>
+  <component name="JUnitMethodTemplateConfiguration">
+    <option name="DONT_SHOW_TEMPLATE_DIALOG_IF_ONLY_ONE_TEMPLATE" value="false" />
+    <option name="DONT_SHOW_METHODS_DIALOG_IF_ONLY_ONE_METHOD" value="false" />
+    <option name="LAST_TEMPLATE_NAME" value="Default Test Method.java" />
+    <option name="TEST_TEMPLATES">
+      <value>
+        <list size="2">
+          <item index="0" class="java.lang.String" itemvalue="Default Test Method.java" />
+          <item index="1" class="java.lang.String" itemvalue="Test Method throws Exception.java" />
+        </list>
+      </value>
+    </option>
+  </component>
+  <component name="JUnitTestConfiguration">
+    <option name="IS_AUTO_TEST_CLASS_RENAME_ENABLED" value="true" />
+    <option name="IS_AUTO_TEST_CLASS_MOVE_ENABLED" value="true" />
+    <option name="IS_AUTO_TEST_CLASS_REFACTORING_ENABLED" value="true" />
+    <option name="IS_AUTO_TEST_METHODS_RENAME_ENABLED" value="true" />
+    <option name="IS_UNTESTED_METHOD_ICON_ENABLED" value="true" />
+    <option name="IS_GET_METHOD_ICONS_ENABLED" value="true" />
+    <option name="IS_SET_METHOD_ICONS_ENABLED" value="true" />
+    <option name="IS_UNIT_TEST_ENABLED" value="true" />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="676" />
+    <option name="width" value="697" />
+    <option name="height" value="735" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="第1部分：Java基础编程" type="b2602c69:ProjectViewProjectNode" />
+              <item name="第1部分：Java基础编程" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="第1部分：Java基础编程" type="b2602c69:ProjectViewProjectNode" />
+              <item name="第1部分：Java基础编程" type="462c0819:PsiDirectoryNode" />
+              <item name="day06-day18：Eclipse" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="第1部分：Java基础编程" type="b2602c69:ProjectViewProjectNode" />
+              <item name="第1部分：Java基础编程" type="462c0819:PsiDirectoryNode" />
+              <item name="day06-day18：Eclipse" type="462c0819:PsiDirectoryNode" />
+              <item name="day06-day18：Eclipse" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="第1部分：Java基础编程" type="b2602c69:ProjectViewProjectNode" />
+              <item name="第1部分：Java基础编程" type="462c0819:PsiDirectoryNode" />
+              <item name="day06-day18：Eclipse" type="462c0819:PsiDirectoryNode" />
+              <item name="day06-day18：Eclipse" type="462c0819:PsiDirectoryNode" />
+              <item name="workspace0105" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="第1部分：Java基础编程" type="b2602c69:ProjectViewProjectNode" />
+              <item name="第1部分：Java基础编程" type="462c0819:PsiDirectoryNode" />
+              <item name="day06-day18：Eclipse" type="462c0819:PsiDirectoryNode" />
+              <item name="day06-day18：Eclipse" type="462c0819:PsiDirectoryNode" />
+              <item name="workspace0105" type="462c0819:PsiDirectoryNode" />
+              <item name="day08" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="第1部分：Java基础编程" type="b2602c69:ProjectViewProjectNode" />
+              <item name="第1部分：Java基础编程" type="462c0819:PsiDirectoryNode" />
+              <item name="day06-day18：Eclipse" type="462c0819:PsiDirectoryNode" />
+              <item name="day06-day18：Eclipse" type="462c0819:PsiDirectoryNode" />
+              <item name="workspace0105" type="462c0819:PsiDirectoryNode" />
+              <item name="day08" type="462c0819:PsiDirectoryNode" />
+              <item name="bin" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="第1部分：Java基础编程" type="b2602c69:ProjectViewProjectNode" />
+              <item name="第1部分：Java基础编程" type="462c0819:PsiDirectoryNode" />
+              <item name="day06-day18：Eclipse" type="462c0819:PsiDirectoryNode" />
+              <item name="day06-day18：Eclipse" type="462c0819:PsiDirectoryNode" />
+              <item name="workspace0105" type="462c0819:PsiDirectoryNode" />
+              <item name="day08" type="462c0819:PsiDirectoryNode" />
+              <item name="bin" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="第1部分：Java基础编程" type="b2602c69:ProjectViewProjectNode" />
+              <item name="第1部分：Java基础编程" type="462c0819:PsiDirectoryNode" />
+              <item name="day06-day18：Eclipse" type="462c0819:PsiDirectoryNode" />
+              <item name="day06-day18：Eclipse" type="462c0819:PsiDirectoryNode" />
+              <item name="workspace0105" type="462c0819:PsiDirectoryNode" />
+              <item name="day08" type="462c0819:PsiDirectoryNode" />
+              <item name="bin" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="atguigu" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="第1部分：Java基础编程" type="b2602c69:ProjectViewProjectNode" />
+              <item name="第1部分：Java基础编程" type="462c0819:PsiDirectoryNode" />
+              <item name="day06-day18：Eclipse" type="462c0819:PsiDirectoryNode" />
+              <item name="day06-day18：Eclipse" type="462c0819:PsiDirectoryNode" />
+              <item name="workspace0105" type="462c0819:PsiDirectoryNode" />
+              <item name="day08" type="462c0819:PsiDirectoryNode" />
+              <item name="bin" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="atguigu" type="462c0819:PsiDirectoryNode" />
+              <item name="exer" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="第1部分：Java基础编程" type="b2602c69:ProjectViewProjectNode" />
+              <item name="第1部分：Java基础编程" type="462c0819:PsiDirectoryNode" />
+              <item name="day06-day18：Eclipse" type="462c0819:PsiDirectoryNode" />
+              <item name="day06-day18：Eclipse" type="462c0819:PsiDirectoryNode" />
+              <item name="workspace0105" type="462c0819:PsiDirectoryNode" />
+              <item name="day09" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="第1部分：Java基础编程" type="b2602c69:ProjectViewProjectNode" />
+              <item name="第1部分：Java基础编程" type="462c0819:PsiDirectoryNode" />
+              <item name="day06-day18：Eclipse" type="462c0819:PsiDirectoryNode" />
+              <item name="day06-day18：Eclipse" type="462c0819:PsiDirectoryNode" />
+              <item name="workspace0105" type="462c0819:PsiDirectoryNode" />
+              <item name="day09" type="462c0819:PsiDirectoryNode" />
+              <item name="bin" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="第1部分：Java基础编程" type="b2602c69:ProjectViewProjectNode" />
+              <item name="第1部分：Java基础编程" type="462c0819:PsiDirectoryNode" />
+              <item name="day06-day18：Eclipse" type="462c0819:PsiDirectoryNode" />
+              <item name="day06-day18：Eclipse" type="462c0819:PsiDirectoryNode" />
+              <item name="workspace0105" type="462c0819:PsiDirectoryNode" />
+              <item name="day09" type="462c0819:PsiDirectoryNode" />
+              <item name="bin" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="第1部分：Java基础编程" type="b2602c69:ProjectViewProjectNode" />
+              <item name="第1部分：Java基础编程" type="462c0819:PsiDirectoryNode" />
+              <item name="day06-day18：Eclipse" type="462c0819:PsiDirectoryNode" />
+              <item name="day06-day18：Eclipse" type="462c0819:PsiDirectoryNode" />
+              <item name="workspace0105" type="462c0819:PsiDirectoryNode" />
+              <item name="day09" type="462c0819:PsiDirectoryNode" />
+              <item name="bin" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="atguigu" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="第1部分：Java基础编程" type="b2602c69:ProjectViewProjectNode" />
+              <item name="第1部分：Java基础编程" type="462c0819:PsiDirectoryNode" />
+              <item name="day06-day18：Eclipse" type="462c0819:PsiDirectoryNode" />
+              <item name="day06-day18：Eclipse" type="462c0819:PsiDirectoryNode" />
+              <item name="workspace0105" type="462c0819:PsiDirectoryNode" />
+              <item name="day09" type="462c0819:PsiDirectoryNode" />
+              <item name="bin" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="atguigu" type="462c0819:PsiDirectoryNode" />
+              <item name="exer" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="第1部分：Java基础编程" type="b2602c69:ProjectViewProjectNode" />
+              <item name="第1部分：Java基础编程" type="462c0819:PsiDirectoryNode" />
+              <item name="day06-day18：Eclipse" type="462c0819:PsiDirectoryNode" />
+              <item name="day06-day18：Eclipse" type="462c0819:PsiDirectoryNode" />
+              <item name="workspace0105" type="462c0819:PsiDirectoryNode" />
+              <item name="day10" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="第1部分：Java基础编程" type="b2602c69:ProjectViewProjectNode" />
+              <item name="第1部分：Java基础编程" type="462c0819:PsiDirectoryNode" />
+              <item name="day06-day18：Eclipse" type="462c0819:PsiDirectoryNode" />
+              <item name="day06-day18：Eclipse" type="462c0819:PsiDirectoryNode" />
+              <item name="workspace0105" type="462c0819:PsiDirectoryNode" />
+              <item name="day10" type="462c0819:PsiDirectoryNode" />
+              <item name=".settings" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="第1部分：Java基础编程" type="b2602c69:ProjectViewProjectNode" />
+              <item name="第1部分：Java基础编程" type="462c0819:PsiDirectoryNode" />
+              <item name="day06-day18：Eclipse" type="462c0819:PsiDirectoryNode" />
+              <item name="day06-day18：Eclipse" type="462c0819:PsiDirectoryNode" />
+              <item name="workspace0105" type="462c0819:PsiDirectoryNode" />
+              <item name="day10" type="462c0819:PsiDirectoryNode" />
+              <item name="bin" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="第1部分：Java基础编程" type="b2602c69:ProjectViewProjectNode" />
+              <item name="第1部分：Java基础编程" type="462c0819:PsiDirectoryNode" />
+              <item name="day06-day18：Eclipse" type="462c0819:PsiDirectoryNode" />
+              <item name="day06-day18：Eclipse" type="462c0819:PsiDirectoryNode" />
+              <item name="workspace0105" type="462c0819:PsiDirectoryNode" />
+              <item name="day10" type="462c0819:PsiDirectoryNode" />
+              <item name="bin" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="第1部分：Java基础编程" type="b2602c69:ProjectViewProjectNode" />
+              <item name="第1部分：Java基础编程" type="462c0819:PsiDirectoryNode" />
+              <item name="day06-day18：Eclipse" type="462c0819:PsiDirectoryNode" />
+              <item name="day06-day18：Eclipse" type="462c0819:PsiDirectoryNode" />
+              <item name="workspace0105" type="462c0819:PsiDirectoryNode" />
+              <item name="day10" type="462c0819:PsiDirectoryNode" />
+              <item name="bin" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="atguigu" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="第1部分：Java基础编程" type="b2602c69:ProjectViewProjectNode" />
+              <item name="第1部分：Java基础编程" type="462c0819:PsiDirectoryNode" />
+              <item name="day06-day18：Eclipse" type="462c0819:PsiDirectoryNode" />
+              <item name="day06-day18：Eclipse" type="462c0819:PsiDirectoryNode" />
+              <item name="workspace0105" type="462c0819:PsiDirectoryNode" />
+              <item name="day10" type="462c0819:PsiDirectoryNode" />
+              <item name="bin" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="atguigu" type="462c0819:PsiDirectoryNode" />
+              <item name="exer" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="第1部分：Java基础编程" type="b2602c69:ProjectViewProjectNode" />
+              <item name="第1部分：Java基础编程" type="462c0819:PsiDirectoryNode" />
+              <item name="day06-day18：Eclipse" type="462c0819:PsiDirectoryNode" />
+              <item name="day06-day18：Eclipse" type="462c0819:PsiDirectoryNode" />
+              <item name="workspace0105" type="462c0819:PsiDirectoryNode" />
+              <item name="day10" type="462c0819:PsiDirectoryNode" />
+              <item name="bin" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="atguigu" type="462c0819:PsiDirectoryNode" />
+              <item name="exer1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="第1部分：Java基础编程" type="b2602c69:ProjectViewProjectNode" />
+              <item name="第1部分：Java基础编程" type="462c0819:PsiDirectoryNode" />
+              <item name="day06-day18：Eclipse" type="462c0819:PsiDirectoryNode" />
+              <item name="day06-day18：Eclipse" type="462c0819:PsiDirectoryNode" />
+              <item name="workspace0105" type="462c0819:PsiDirectoryNode" />
+              <item name="day12" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="第1部分：Java基础编程" type="b2602c69:ProjectViewProjectNode" />
+              <item name="第1部分：Java基础编程" type="462c0819:PsiDirectoryNode" />
+              <item name="day06-day18：Eclipse" type="462c0819:PsiDirectoryNode" />
+              <item name="day06-day18：Eclipse" type="462c0819:PsiDirectoryNode" />
+              <item name="workspace0105" type="462c0819:PsiDirectoryNode" />
+              <item name="day12" type="462c0819:PsiDirectoryNode" />
+              <item name="bin" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="第1部分：Java基础编程" type="b2602c69:ProjectViewProjectNode" />
+              <item name="第1部分：Java基础编程" type="462c0819:PsiDirectoryNode" />
+              <item name="day06-day18：Eclipse" type="462c0819:PsiDirectoryNode" />
+              <item name="day06-day18：Eclipse" type="462c0819:PsiDirectoryNode" />
+              <item name="workspace0105" type="462c0819:PsiDirectoryNode" />
+              <item name="day12" type="462c0819:PsiDirectoryNode" />
+              <item name="bin" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="第1部分：Java基础编程" type="b2602c69:ProjectViewProjectNode" />
+              <item name="第1部分：Java基础编程" type="462c0819:PsiDirectoryNode" />
+              <item name="day06-day18：Eclipse" type="462c0819:PsiDirectoryNode" />
+              <item name="day06-day18：Eclipse" type="462c0819:PsiDirectoryNode" />
+              <item name="workspace0105" type="462c0819:PsiDirectoryNode" />
+              <item name="day12" type="462c0819:PsiDirectoryNode" />
+              <item name="bin" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="atguigu" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="第1部分：Java基础编程" type="b2602c69:ProjectViewProjectNode" />
+              <item name="第1部分：Java基础编程" type="462c0819:PsiDirectoryNode" />
+              <item name="day06-day18：Eclipse" type="462c0819:PsiDirectoryNode" />
+              <item name="day06-day18：Eclipse" type="462c0819:PsiDirectoryNode" />
+              <item name="workspace0105" type="462c0819:PsiDirectoryNode" />
+              <item name="day12" type="462c0819:PsiDirectoryNode" />
+              <item name="bin" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="atguigu" type="462c0819:PsiDirectoryNode" />
+              <item name="exer" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="F:/JavaSenior/JavaSenior" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cc916adc-d054-469e-a1b5-8545b966b16d" name="Default Changelist" comment="" />
+      <created>1572060512951</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1572060512951</updated>
+      <workItem from="1572060515728" duration="414000" />
+      <workItem from="1572061521517" duration="904000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="1318000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="676" y="0" width="697" height="735" extended-state="0" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.46771654" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info anchor="right" id="Maven" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Database" order="8" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/day06-day18：Eclipse/day06-day18：Eclipse/workspace0105/day06/src/com/atguigu/exer/ArrayDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="24" lean-forward="true" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day06-day18：Eclipse/day06-day18：Eclipse/workspace0105/day06/src/com/atguigu/exer/ArrayDemo1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret lean-forward="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day06-day18：Eclipse/day06-day18：Eclipse/workspace0105/day07/bin/com/atguigu/exer/ArrayExer1.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret lean-forward="true" />
+          <folding>
+            <element signature="e#0#536#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day06-day18：Eclipse/day06-day18：Eclipse/workspace0105/day07/src/com/atguigu/exer/ArrayExer1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day06-day18：Eclipse/day06-day18：Eclipse/workspace0105/day08/bin/com/atguigu/exer/Circle.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+          <folding>
+            <element signature="e#0#340#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day06-day18：Eclipse/day06-day18：Eclipse/workspace0105/day08/bin/com/atguigu/exer/CircleTest.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+          <folding>
+            <element signature="e#0#328#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day06-day18：Eclipse/day06-day18：Eclipse/workspace0105/day09/bin/com/atguigu/exer/OverloadExer.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#715#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day06-day18：Eclipse/day06-day18：Eclipse/workspace0105/day10/bin/com/atguigu/exer/Person.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="458">
+          <caret line="40" lean-forward="true" selection-start-line="40" selection-end-line="40" />
+          <folding>
+            <element signature="e#0#701#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day06-day18：Eclipse/day06-day18：Eclipse/workspace0105/day10/bin/com/atguigu/exer1/TriAngle.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret lean-forward="true" />
+          <folding>
+            <element signature="e#0#606#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day06-day18：Eclipse/day06-day18：Eclipse/workspace0105/day12/bin/com/atguigu/exer/Kids.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="10" column="19" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day06-day18：Eclipse/day06-day18：Eclipse/workspace0105/day10/bin/com/atguigu/exer1/TriAngleTest.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>11</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

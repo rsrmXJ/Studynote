@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+C:\Users\XJ\Downloads\课件笔记源码资料\5_代码\第1部分：Java基础编程\day06-day18：Eclipse\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+2431002375.index
+1469223722.index
+1053567494.index
+3539638603.index
+3784032691.index
+4104261253.index

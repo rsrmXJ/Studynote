@@ -1,0 +1,61 @@
+﻿生成启动时间为 2019/9/17 11:36:52。
+     1>项目“C:\Users\Administrator\Documents\Visual Studio 2010\Projects\CExams\CExams\CExams.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“Debug\CExams.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         D:\program\vc2010express\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TC /analyze- /errorReport:prompt "exam14-03.c" "exam17-01.c"
+         exam17-01.c
+         exam14-03.c
+         正在生成代码...
+       Link:
+         D:\program\vc2010express\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Administrator\Documents\Visual Studio 2010\Projects\CExams\Debug\CExams.exe" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\CExams.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\Administrator\Documents\Visual Studio 2010\Projects\CExams\Debug\CExams.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Administrator\Documents\Visual Studio 2010\Projects\CExams\Debug\CExams.lib" /MACHINE:X86 "Debug\exam01-02.obj"
+         "Debug\exam01-03.obj"
+         Debug\exam01.obj
+         "Debug\exam02-01.obj"
+         "Debug\exam02-02.obj"
+         "Debug\exam02-03.obj"
+         "Debug\exam03-01.obj"
+         "Debug\exam03-03.obj"
+         "Debug\exam04-01.obj"
+         "Debug\exam04-02.obj"
+         "Debug\exam04-03.obj"
+         "Debug\exam05-01.obj"
+         "Debug\exam05-03.obj"
+         "Debug\exam07-01.obj"
+         "Debug\exam07-02.obj"
+         "Debug\exam07-03.obj"
+         "Debug\exam08-01.obj"
+         "Debug\exam08-02.obj"
+         "Debug\exam08-03.obj"
+         "Debug\exam10-01.obj"
+         "Debug\exam10-02.obj"
+         "Debug\exam10-03.obj"
+         "Debug\exam11-01.obj"
+         "Debug\exam11-02.obj"
+         "Debug\exam11-03.obj"
+         "Debug\exam13-01.obj"
+         "Debug\exam13-02.obj"
+         "Debug\exam14-02.obj"
+         "Debug\exam13-03.obj"
+         "Debug\exam14-01.obj"
+         "Debug\exam14-03.obj"
+         "Debug\exam17-01.obj"
+         "Debug\exam17-02.obj"
+         "Debug\exam17-03.obj"
+         "Debug\exam18-01.obj"
+         "Debug\exam18-02.obj"
+         "Debug\exam18-03.obj"
+         "Debug\exma03-02.obj"
+         Debug\test.obj
+         LINK : 没有找到 C:\Users\Administrator\Documents\Visual Studio 2010\Projects\CExams\Debug\CExams.exe 或上一个增量链接没有生成它；正在执行完全链接
+         CExams.vcxproj -> C:\Users\Administrator\Documents\Visual Studio 2010\Projects\CExams\Debug\CExams.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"C:\Users\Administrator\Documents\Visual Studio 2010\Projects\CExams\Debug\CExams.exe;#1" /manifest Debug\CExams.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         正在删除文件“Debug\CExams.unsuccessfulbuild”。
+         正在对“Debug\CExams.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“C:\Users\Administrator\Documents\Visual Studio 2010\Projects\CExams\CExams\CExams.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:02.01

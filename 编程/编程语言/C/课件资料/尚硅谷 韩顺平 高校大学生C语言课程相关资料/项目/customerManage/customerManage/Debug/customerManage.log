@@ -1,0 +1,17 @@
+﻿生成启动时间为 2019/9/8 10:35:07。
+     1>项目“C:\Users\Administrator\Desktop\尚硅谷 韩顺平 高校大学生C语言课程\项目\customerManage\customerManage\customerManage.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“Debug\customerManage.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         所有输出均为最新。
+       Link:
+         所有输出均为最新。
+         customerManage.vcxproj -> C:\Users\Administrator\Desktop\尚硅谷 韩顺平 高校大学生C语言课程\项目\customerManage\Debug\customerManage.exe
+       FinalizeBuildStatus:
+         正在删除文件“Debug\customerManage.unsuccessfulbuild”。
+         正在对“Debug\customerManage.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“C:\Users\Administrator\Desktop\尚硅谷 韩顺平 高校大学生C语言课程\项目\customerManage\customerManage\customerManage.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:00.23
